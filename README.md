@@ -1,4 +1,4 @@
-Object Oriented Ship Battling
+Object Oriented project
 
 
 This repository made based on watched some tutorials from KNP University
