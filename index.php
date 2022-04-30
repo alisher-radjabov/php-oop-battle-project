@@ -50,7 +50,7 @@ if (isset($_GET['error'])) {
     <?php endif; ?>
 
     <body>
-        <div class="container">
+        <div class="container" style="background:blue;">
             <div class="page-header">
                 <h1>OO Battleships of Space</h1>
             </div>
